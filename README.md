@@ -13,6 +13,9 @@ Duartion: JUNE 25th 2024 TO AUGUST 25TH 2024
 
 Project: To do list app
 
+Output:
+![Screenshot 2024-08-25 172606](https://github.com/user-attachments/assets/673817bf-4ec9-4960-819b-e9362475d124)
+
 Objective:
 
 The objective of this to-do list app is to provide a simple and efficient tool for managing tasks. It allows users to create, view, and complete tasks, making it a convenient way to stay organized and focused. By utilizing local storage, the app ensures that tasks are persisted even after the browser window is closed, providing a seamless user experience. Additionally, the app's user-friendly interface and clear task management features make it easy for users to prioritize and track their tasks effectively.
